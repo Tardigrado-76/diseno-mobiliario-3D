@@ -22,14 +22,14 @@ Ideal para roles de **Product Building y Diseño**, acorta el ciclo de prototipa
 ```mermaid
 graph TD
     subgraph "Frontend & User Experience (UX)"
-        Web[Web Viewer<br/>Three.js / WebGL]
-        iOS[iOS App<br/>SwiftUI / ARKit]
-        Android[Android APK<br/>Unity / ARCore]
+        Web["Web Viewer<br/>Three.js / WebGL"]
+        iOS["iOS App<br/>SwiftUI / ARKit"]
+        Android["Android APK<br/>Unity / ARCore"]
     end
 
     subgraph "Backend & Assets Delivery"
-        CDN[Asset CDN<br/>Modelos .gltf / .usdz]
-        API[API REST<br/>Gestión de Catálogo]
+        CDN["Asset CDN<br/>Modelos .gltf / .usdz"]
+        API["API REST<br/>Gestión de Catálogo"]
     end
 
     Web <--> API
