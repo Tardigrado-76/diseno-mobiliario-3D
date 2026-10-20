@@ -1,4 +1,4 @@
-# 🎨 Ecosistema Completo de Diseño 3D (Mobiliario y Retail)
+# Ecosistema Completo de Diseno 3D (Mobiliario y Retail)
 
 [![iOS Version](https://img.shields.io/badge/iOS-SwiftUI-orange.svg)]()
 [![Android Version](https://img.shields.io/badge/Android-APK-green.svg)]()
@@ -9,7 +9,7 @@
 
 ---
 
-## 🎯 Executive Overview
+## Executive Overview
 
 Diseñado para revolucionar la experiencia de usuario (UX) en el sector Retail (como calzado, complementos o mobiliario), este ecosistema permite visualizar productos interactivos en tres dimensiones antes de su fabricación o compra. 
 
@@ -17,7 +17,7 @@ Ideal para roles de **Product Building y Diseño**, acorta el ciclo de prototipa
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 
 ```mermaid
 graph TD
@@ -43,7 +43,7 @@ graph TD
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 * **Web 3D:** Three.js, WebGL
 * **Móvil:** SwiftUI (iOS), APK nativo (Android)
 * **Modelos Soportados:** `.gltf`, `.glb`, `.usdz`
